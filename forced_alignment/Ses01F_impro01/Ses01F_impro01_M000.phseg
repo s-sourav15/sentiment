@@ -1,0 +1,21 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    32   1089320 SIL
+	   33    36      4755 D SIL UW b
+	   37    40   -133262 UW D SIL e
+	   41   139   4879703 SIL
+	  140   142    -19349 Y SIL UW b
+	  143   145      4812 UW Y SIL e
+	  146   155     77886 SIL
+	  156   161    -70415 HH SIL EY b
+	  162   166    -12324 EY HH V i
+	  167   169     16793 V EY Y e
+	  170   172     15388 Y V UH b
+	  173   175     57262 UH Y AXR e
+	  176   182     67078 AXR UH F e
+	  183   189    221268 F AXR AO b
+	  190   201    429158 AO F R i
+	  202   211    376202 R AO M i
+	  212   221     42460 M R Z i
+	  222   238    407088 Z M SIL e
+	  239   288   3657834 SIL
+ Total score:    11111657

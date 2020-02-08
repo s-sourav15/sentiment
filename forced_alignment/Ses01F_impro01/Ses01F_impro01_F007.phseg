@@ -1,0 +1,70 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    12    -28930 SIL
+	   13    30    681690 SIL
+	   31    37    -59227 HH SIL AW b
+	   38    51     47127 AW HH AX e
+	   52    54    -95256 AX AW M b
+	   55    60   -388635 M AX AY e
+	   61    70    -23215 AY M S s
+	   71    78    -24845 S AY AX b
+	   79    81     31071 AX S P i
+	   82    84    -50336 P AX OW i
+	   85    93   -157970 OW P Z i
+	   94    97   -128966 Z OW D i
+	   98   100    -86469 D Z T e
+	  101   104   -240580 T D IX b
+	  105   107   -109153 IX T G e
+	  108   113    -97262 G IX IH b
+	  114   117    -24258 IH G T i
+	  118   121     90222 T IH AX e
+	  122   127     44257 AX T N b
+	  128   131     16653 N AX AY e
+	  132   141    135154 AY N D b
+	  142   151   -178356 D AY IY i
+	  152   160   -178793 IY D W e
+	  161   164     20345 W IY IH b
+	  165   167     18027 IH W DH i
+	  168   174    122818 DH IH AW i
+	  175   182    110447 AW DH T i
+	  183   190     84800 T AW AX e
+	  191   193    -30301 AX T N b
+	  194   198     26164 N AX AY e
+	  199   208    272971 AY N D b
+	  209   217    -75984 D AY IY i
+	  218   235    362962 IY D SIL e
+	  236   317   3324310 SIL
+	  318   320   -113817 HH SIL AW b
+	  321   327   -258845 AW HH D e
+	  328   330   -309400 D AW AX b
+	  331   333   -312678 AX D Z i
+	  334   339   -537653 Z AX AX e
+	  340   344   -244443 AX Z SIL s
+	  345   347   -102747 SIL
+	  348   352   -192484 P SIL ER b
+	  353   359   -241077 ER P S i
+	  360   363   -171460 S ER IH i
+	  364   369   -155990 IH S N i
+	  370   373     45142 N IH G e
+	  374   379   -188808 G N IH b
+	  380   384      9615 IH G T i
+	  385   388      6722 T IH AX e
+	  389   393    -12302 AX T N b
+	  394   398    -39590 N AX AY e
+	  399   408     19856 AY N D b
+	  409   418   -191608 D AY IY i
+	  419   424     72112 IY D AX e
+	  425   429      2922 AX IY N b
+	  430   432    -67989 N AX DH e
+	  433   435     28150 DH N AX b
+	  436   441    -56615 AX DH F e
+	  442   446     58508 F AX ER b
+	  447   454    -29128 ER F S i
+	  455   458      7600 S ER TD i
+	  459   462     76022 TD S P e
+	  463   465     -2137 P TD L b
+	  466   471     23714 L P EY i
+	  472   481    172764 EY L S i
+	  482   491    279713 S EY SIL e
+	  492   556   2986963 SIL
+	  557   559    105347 SIL
+ Total score:     4076861

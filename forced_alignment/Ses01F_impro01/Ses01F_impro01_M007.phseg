@@ -1,0 +1,70 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    82   3638162 SIL
+	   83    89    100003 SIL
+	   90   100   -255858 AY SIL D s
+	  101   105    -91706 D AY OW b
+	  106   112    -80495 OW D N i
+	  113   116    -68008 N OW N e
+	  117   120     33619 N N OW b
+	  121   135    432104 OW N B e
+	  136   139    -37327 B OW AH b
+	  140   143     18098 AH B T i
+	  144   146      9925 T AH AY e
+	  147   163    -33431 AY T SIL s
+	  164   166      5540 SIL
+	  167   170     45467 N SIL IY b
+	  171   179    -93303 IY N D i
+	  180   185    -64369 D IY AX e
+	  186   189    -76980 AX D N b
+	  190   196   -144898 N AX AY e
+	  197   208    107274 AY N D b
+	  209   218    -84343 D AY IY i
+	  219   256   1179251 IY D SIL e
+	  257   264    257507 SIL
+	  265   269   -104012 T SIL AX b
+	  270   274    -15954 AX T P e
+	  275   284   -209093 P AX AE b
+	  285   301    181233 AE P S i
+	  302   313   -148243 S AE DH e
+	  314   319    -56790 DH S AX b
+	  320   323     12004 AX DH S i
+	  324   331   -104241 S AX F e
+	  332   339    202093 F S AO b
+	  340   349    112400 AO F R i
+	  350   355    -17107 R AO M i
+	  356   359    -85061 M R AX e
+	  360   362     -9991 AX M L b
+	  363   372    427181 L AX AO i
+	  373   380    434149 AO L NG i
+	  381   393    582846 NG AO SIL e
+	  394   418    365532 SIL
+	  419   425   -238737 AY SIL K s
+	  426   436    -75099 K AY AE b
+	  437   444   -240920 AE K N i
+	  445   450   -215100 N AE JH e
+	  451   455   -340062 JH N AX b
+	  456   460   -196066 AX JH S i
+	  461   464    -10722 S AX T i
+	  465   467       151 T S S e
+	  468   470      5180 S T EH b
+	  471   475   -175802 EH S N i
+	  476   480      9348 N EH DD i
+	  481   483    -68412 DD N AX e
+	  484   488   -273525 AX DD TD b
+	  489   491   -220166 TD AX AX e
+	  492   494    -56932 AX TD L b
+	  495   497    -48740 L AX AO i
+	  498   507    197959 AO L NG i
+	  508   511    -37948 NG AO W e
+	  512   514    -55135 W NG IH b
+	  515   517    -71940 IH W DH i
+	  518   522    -21600 DH IH AW i
+	  523   529     26605 AW DH T i
+	  530   532    -68343 T AW AX e
+	  533   535   -271375 AX T N b
+	  536   538   -250507 N AX AY e
+	  539   548    272096 AY N D b
+	  549   557     59995 D AY IY i
+	  558   561    -27953 IY D SIL e
+	  562   622   -543713 SIL
+ Total score:     3425715

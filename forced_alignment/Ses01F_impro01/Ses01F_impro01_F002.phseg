@@ -1,0 +1,18 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    69   3540290 SIL
+	   70   209   8684150 SIL
+	  210   212     30893 AX SIL Z b
+	  213   215     -9421 Z AX DH e
+	  216   219    -16238 DH Z EH b
+	  220   224     -5195 EH DH R i
+	  225   228     -1008 R EH AX e
+	  229   232     43716 AX R P s
+	  233   237     29065 P AX R b
+	  238   243   -126423 R P AA i
+	  244   253    189582 AA R B i
+	  254   256      2073 B AA L i
+	  257   265    -69448 L B AX i
+	  266   274    -16018 AX L M i
+	  275   282    309982 M AX SIL e
+	  283   311   1720783 SIL
+ Total score:    14306783

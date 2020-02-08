@@ -1,0 +1,74 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    20    -95501 SIL
+	   21    45    307026 SIL
+	   46    57   -141005 Y SIL AE b
+	   58    64   -216334 AE Y D e
+	   65    67    -69630 D AE OW b
+	   68    78     28646 OW D SIL e
+	   79   135   -497934 SIL
+	  136   141   -226494 Y SIL UW b
+	  142   144   -201720 UW Y W e
+	  145   147   -287113 W UW AA b
+	  148   150   -125926 AA W N i
+	  151   153   -229979 N AA TD i
+	  154   156   -140301 TD N T e
+	  157   159    -78118 T TD AX b
+	  160   162    -29758 AX T S e
+	  163   165   -252067 S AX IY b
+	  166   169    -42922 IY S M e
+	  170   173    -94362 M IY AY b
+	  174   179     29960 AY M S e
+	  180   186    -45229 S AY Y b
+	  187   191   -143556 Y S UW i
+	  192   195     50054 UW Y P i
+	  196   198    -15281 P UW AXR i
+	  199   206    182620 AXR P V i
+	  207   210     -1863 V AXR AY i
+	  211   223   -348828 AY V Z i
+	  224   232     37662 Z AY AXR i
+	  233   235      -748 AXR Z HH e
+	  236   238    -38407 HH AXR AH b
+	  239   241     22615 AH HH Y e
+	  242   244     30149 Y AH IY b
+	  245   247    -10008 IY Y SIL e
+	  248   252     96082 SIL
+	  253   256   -311969 D SIL UW b
+	  257   260   -398020 UW D Y e
+	  261   263   -176102 Y UW UW b
+	  264   266   -227998 UW Y W e
+	  267   269   -130336 W UW AO b
+	  270   277    215511 AO W N i
+	  278   289    -27352 N AO T i
+	  290   292     27834 T N SIL e
+	  293   333  -1281048 SIL
+	  334   336   -152353 T SIL IH b
+	  337   343   -170903 IH T S e
+	  344   346   -151052 S IH IY b
+	  347   351   -328427 IY S M e
+	  352   354   -214552 M IY AY b
+	  355   360     52194 AY M S e
+	  361   365   -175169 S AY UW b
+	  366   370   -198620 UW S P i
+	  371   373   -478368 P UW AXR i
+	  374   378   -196239 AXR P V i
+	  379   384   -341391 V AXR AY i
+	  385   391   -713892 AY V Z i
+	  392   402   -377300 Z AY AXR i
+	  403   411   -243962 AXR Z SIL e
+	  412   417   -461854 SIL
+	  418   428   -224064 F SIL AY b
+	  429   436   -394995 AY F N i
+	  437   442   -561891 N AY AY e
+	  443   446   -556650 AY N L b
+	  447   449   -137464 L AY B e
+	  450   453   -196327 B L IY b
+	  454   460   -205846 IY B R e
+	  461   465   -344627 R IY AY b
+	  466   476   -451084 AY R TD i
+	  477   480   -145383 TD AY SIL e
+	  481   483   -109479 SIL
+	  484   486    -66790 B SIL AE b
+	  487   504   -621760 AE B K i
+	  505   519    176596 K AE SIL e
+	  520   601   4247976 SIL
+ Total score:    -8601426

@@ -1,0 +1,23 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    28    -33043 SIL
+	   29    31    -57142 DH SIL AX b
+	   32    44   -312339 AX DH S i
+	   45    47       693 S AX F e
+	   48    57     21553 F S AO b
+	   58    66     72427 AO F R i
+	   67    77   -194617 R AO M i
+	   78    80    -21142 M R AX e
+	   81    88    -22441 AX M Z b
+	   89    97     83169 Z AX AX e
+	   98   103    -70803 AX Z SIL s
+	  104   122    177199 SIL
+	  123   128    -31280 Z SIL IY b
+	  129   143     96659 IY Z EH e
+	  144   157    141292 EH IY K b
+	  158   164   -254958 K EH S i
+	  165   172     49606 S K F e
+	  173   190   -205627 F S AO b
+	  191   218    113376 AO F R i
+	  219   235    540838 R AO SIL e
+	  236   280   2884951 SIL
+ Total score:     2978371

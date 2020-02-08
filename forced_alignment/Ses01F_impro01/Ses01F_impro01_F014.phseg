@@ -1,0 +1,42 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    62   2841745 SIL
+	   63    70    384859 SIL
+	   71    79   -149889 K SIL L b
+	   80    83    -18925 L K IH i
+	   84    94    -47827 IH L R i
+	   95   102   -126205 R IH L i
+	  103   108   -106740 L R IY i
+	  109   131    554830 IY L SIL e
+	  132   226   4970424 SIL
+	  227   235     95462 Y SIL UW b
+	  236   238    -58434 UW Y N e
+	  239   241    -51989 N UW OW b
+	  242   249    -56360 OW N D e
+	  250   255   -418936 D OW UW b
+	  256   259   -143299 UW D Y e
+	  260   263    -68851 Y UW UW b
+	  264   266    -33091 UW Y HH e
+	  267   273    -73744 HH UW AE b
+	  274   277   -219810 AE HH V i
+	  278   280    -95836 V AE L e
+	  281   289   -487155 L V AY b
+	  290   295   -227647 AY L K i
+	  296   303   -200748 K AY AX e
+	  304   311   -265016 AX K S s
+	  312   319    -15810 S AX UW b
+	  320   330     36170 UW S P i
+	  331   334   -151104 P UW AXR i
+	  335   342     52601 AXR P V i
+	  343   346      1598 V AXR AY i
+	  347   359   -511052 AY V Z i
+	  360   370   -549388 Z AY AXR i
+	  371   375     15964 AXR Z ER e
+	  376   402    423322 ER AXR S s
+	  403   410    -15733 S ER AH b
+	  411   417    133558 AH S M i
+	  418   423    141101 M AH TH i
+	  424   429     12293 TH M IH i
+	  430   436    251462 IH TH NG i
+	  437   447    335100 NG IH SIL e
+	  448   505   -116511 SIL
+ Total score:     6040389

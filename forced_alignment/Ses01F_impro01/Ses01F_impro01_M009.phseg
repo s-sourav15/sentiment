@@ -1,0 +1,63 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    16     44924 SIL
+	   17    32    360380 SIL
+	   33    41    102496 AX SIL SIL s
+	   42    46     76498 SIL
+	   47    51    -80906 B SIL ER b
+	   52    62     61366 ER B TH i
+	   63    67   -121437 TH ER S e
+	   68    74     40980 S TH AXR b
+	   75    82    -70992 AXR S T i
+	   83    89   -209946 T AXR IH i
+	   90    97    117522 IH T F i
+	   98   106     23955 F IH IH i
+	  107   112     19206 IH F K i
+	  113   118     21541 K IH IH i
+	  119   132    491555 IH K T i
+	  133   136     26541 T IH SIL e
+	  137   139   -128094 SIL
+	  140   146    -12725 AX SIL SIL s
+	  147   154   -249358 SIL
+	  155   159   -196782 P SIL AE b
+	  160   180    311856 AE P S i
+	  181   193   -274795 S AE P i
+	  194   196   -223463 P S OW i
+	  197   228   -781810 OW P R b
+	  229   237    244851 R OW T s
+	  238   241    146835 T R SIL e
+	  242   332  -1200019 SIL
+	  333   342    401344 EY SIL SIL s
+	  343   418   1994725 SIL
+	  419   445    302960 S SIL T b
+	  446   451    -48069 T S UW i
+	  452   462   -500403 UW T D i
+	  463   465    -94160 D UW AX i
+	  466   468     54601 AX D N i
+	  469   471     -7790 N AX T i
+	  472   475    -37814 T N AY e
+	  476   487    237054 AY T D b
+	  488   494   -102662 D AY IY i
+	  495   506    295375 IY D D e
+	  507   509    -44919 D IY IH b
+	  510   512   -124668 IH D N i
+	  513   515   -206152 N IH TD i
+	  516   518   -271118 TD N Y e
+	  519   521   -181526 Y TD UW b
+	  522   524    -32288 UW Y G e
+	  525   527    -93974 G UW OW b
+	  528   538    -82299 OW G T e
+	  539   541   -229036 T OW AX b
+	  542   544   -117520 AX T S e
+	  545   549   -140446 S AX K b
+	  550   554    -97571 K S UW i
+	  555   566     45112 UW K L i
+	  567   581     61875 L UW SIL e
+	  582   662   3790316 SIL
+	  663   669    -80456 EH SIL N b
+	  670   674    -59592 N EH IY i
+	  675   678     -5100 IY N TH i
+	  679   682    -76490 TH IY IH i
+	  683   688     -3727 IH TH NG i
+	  689   699   -147045 NG IH SIL e
+	  700   747   2175888 SIL
+ Total score:     5114604

@@ -1,0 +1,92 @@
+	 SFrm  EFrm   SegAScr Phone
+	    0    19   1076073 SIL
+	   20    25     60370 Y SIL UW b
+	   26    30     52461 UW Y K e
+	   31    40   -260871 K UW AE b
+	   41    53    111863 AE K N i
+	   54    66    -49707 N AE TD i
+	   67   102   -497190 TD N SIL e
+	  103   249   5551232 SIL
+	  250   252    -78329 DH SIL AX b
+	  253   255    -47406 AX DH S i
+	  256   263     25118 S AX AX e
+	  264   267    -83799 AX S Z b
+	  268   272    -26432 Z AX N e
+	  273   280   -195050 N Z AA b
+	  281   290     87708 AA N TD i
+	  291   296   -121116 TD AA DH e
+	  297   299   -109213 DH TD AX b
+	  300   304     21389 AX DH L e
+	  305   311   -154997 L AX AY b
+	  312   321    -18794 AY L N i
+	  322   333    -56073 N AY F e
+	  334   336   -110661 F N AXR b
+	  337   339    -41328 AXR F SIL e
+	  340   342    -75586 SIL
+	  343   356    176226 Z SIL IY b
+	  357   366    291311 IY Z EH e
+	  367   375   -262023 EH IY K b
+	  376   381   -135707 K EH S i
+	  382   385     -4813 S K F e
+	  386   391     46576 F S AO b
+	  392   401    245807 AO F R i
+	  402   408    102911 R AO IH e
+	  409   416   -169479 IH R F b
+	  417   426     44886 F IH SIL e
+	  427   439   -366108 SIL
+	  440   443   -122936 Y SIL UH b
+	  444   446    -98120 UH Y R i
+	  447   449   -108080 R UH G e
+	  450   454   -119507 G R OW b
+	  455   460   -139334 OW G AX i
+	  461   463   -227204 AX OW NG i
+	  464   466   -123219 NG AX T e
+	  467   469      -389 T NG OW b
+	  470   472    -63483 OW T F e
+	  473   475   -148870 F OW IH b
+	  476   479   -148670 IH F L i
+	  480   485   -195625 L IH AW e
+	  486   490    -15522 AW L TD b
+	  491   494     55248 TD AW DH e
+	  495   497    -77630 DH TD AX b
+	  498   500    -84649 AX DH Z e
+	  501   507     71683 Z AX IY b
+	  508   514     33635 IY Z EH e
+	  515   523   -192789 EH IY K b
+	  524   528   -144123 K EH S i
+	  529   538     35115 S K SIL e
+	  539   545   -200467 SIL
+	  546   548   -131275 F SIL AO b
+	  549   564    152778 AO F R i
+	  565   583    143367 R AO SIL e
+	  584   620   1522047 SIL
+	  621   626     24591 Y SIL UW b
+	  627   631     47914 UW Y N e
+	  632   634    -20875 N UW IY b
+	  635   643       492 IY N D i
+	  644   646    -44481 D IY T e
+	  647   649   -154884 T D AX b
+	  650   652   -220607 AX T HH e
+	  653   656    -82388 HH AX AE b
+	  657   660     -8507 AE HH V i
+	  661   664     46788 V AE AX e
+	  665   669    -31853 AX V D s
+	  670   674    -43579 D AX IH b
+	  675   680   -113987 IH D F i
+	  681   686     96381 F IH R i
+	  687   689     22985 R F AX i
+	  690   692   -100559 AX R N i
+	  693   697    -99076 N AX T i
+	  698   700      8591 T N F e
+	  701   703    -19108 F T AO b
+	  704   707    -10565 AO F R i
+	  708   715     46360 R AO M i
+	  716   718    -26631 M R AH e
+	  719   722     -5807 AH M V b
+	  723   729    146094 V AH AY e
+	  730   740   -182575 AY V D b
+	  741   751    -63819 D AY IY i
+	  752   770    634587 IY D SIL e
+	  771   790    952599 SIL
+	  791   810   1250219 SIL
+ Total score:     6749530
